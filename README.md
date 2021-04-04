@@ -1,3 +1,5 @@
+I dont understand 
+
 # The Misspell Challenge
 
 Learning in Public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue!
